@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>other_package</name>
+  <version>0.0.0</version>
+  <description>The other_package package</description>
+
+  <maintainer email="filip@todo.todo">filip</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>example</depend>
+
+  <export>
+  </export>
+</package>
